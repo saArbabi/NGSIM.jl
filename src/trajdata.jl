@@ -1,3 +1,5 @@
+#Here I (SA) make some changes to the code. 
+
 const NGSIM_TIMESTEP = 0.1 # [sec]
 const SMOOTHING_WIDTH_POS = 0.5 # [s]
 
